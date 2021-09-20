@@ -1,2 +1,2 @@
 # interviewbot
-## Interview preparation Bot
+## Interview preparation Bot using RASA
